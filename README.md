@@ -15,7 +15,7 @@ Added Issue
 #### Things we understand**
 
 
-1.  Python Print[1] Successfully added first list 
+1.  Python Print[1] 
 2.  Linux Directory listing[2] 
 3.  Docker Installation[1]
 #### Things we don't understand
